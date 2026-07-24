@@ -1,59 +1,56 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#07111F"/>
-      <stop offset="0.48" stop-color="#0B2447"/>
-      <stop offset="1" stop-color="#0F766E"/>
+    <linearGradient id="heroBg" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.48" stop-color="#0B1324"/>
+      <stop offset="1" stop-color="#083344"/>
     </linearGradient>
-    <linearGradient id="line" x1="190" y1="62" x2="1070" y2="285" gradientUnits="userSpaceOnUse">
+    <linearGradient id="heroLine" x1="72" y1="82" x2="1132" y2="338" gradientUnits="userSpaceOnUse">
       <stop stop-color="#38BDF8"/>
-      <stop offset="0.52" stop-color="#2DD4BF"/>
+      <stop offset="0.38" stop-color="#2DD4BF"/>
+      <stop offset="0.72" stop-color="#A78BFA"/>
       <stop offset="1" stop-color="#FBBF24"/>
     </linearGradient>
-    <filter id="soft" x="-40" y="-40" width="1280" height="440" filterUnits="userSpaceOnUse">
-      <feGaussianBlur stdDeviation="20"/>
-    </filter>
-    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
-      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#FFFFFF" stroke-opacity="0.055" stroke-width="1"/>
+    <pattern id="heroGrid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#FFFFFF" stroke-opacity="0.055" stroke-width="1" fill="none"/>
     </pattern>
   </defs>
 
-  <rect width="1200" height="360" rx="34" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="34" fill="url(#grid)"/>
-  <path d="M58 301C213 222 262 88 420 118C591 151 577 276 755 250C906 228 927 102 1112 82" stroke="url(#line)" stroke-width="2.5" stroke-opacity="0.65"/>
-  <path d="M720 45H1120C1142 45 1160 63 1160 85V275C1160 297 1142 315 1120 315H720C698 315 680 297 680 275V85C680 63 698 45 720 45Z" fill="#020617" fill-opacity="0.35" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <rect width="1200" height="430" rx="24" fill="url(#heroBg)"/>
+  <rect width="1200" height="430" rx="24" fill="url(#heroGrid)"/>
+  <path d="M62 328C208 235 281 91 429 126C594 165 588 285 758 258C912 234 947 98 1138 78" stroke="url(#heroLine)" stroke-width="2.5" stroke-opacity="0.74"/>
+  <path d="M60 354H1140" stroke="#FFFFFF" stroke-opacity="0.08"/>
 
-  <g filter="url(#soft)" opacity="0.55">
-    <path d="M95 54H480V175H95V54Z" fill="#38BDF8" fill-opacity="0.26"/>
-    <path d="M620 178H1030V314H620V178Z" fill="#2DD4BF" fill-opacity="0.2"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="70" y="78" fill="#BAE6FD" font-size="21" font-weight="800" letter-spacing="3">FULL-STACK AND FLUTTER DEVELOPER</text>
+    <text x="68" y="154" fill="#FFFFFF" font-size="60" font-weight="850">Naqibullah Qazizadah</text>
+    <text x="72" y="204" fill="#D9F99D" font-size="25" font-weight="650">I turn business ideas into working platforms.</text>
+    <text x="72" y="242" fill="#CBD5E1" font-size="19" font-weight="500">Laravel APIs, Next.js interfaces, Flutter apps, admin systems.</text>
+    <text x="72" y="272" fill="#CBD5E1" font-size="19" font-weight="500">Payments, realtime workflows, and launch-ready operations.</text>
+
+    <g transform="translate(806 74)">
+      <rect width="314" height="248" rx="14" fill="#020617" fill-opacity="0.72" stroke="#FFFFFF" stroke-opacity="0.16"/>
+      <rect x="20" y="20" width="274" height="40" rx="8" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.35"/>
+      <text x="38" y="46" fill="#E0F2FE" font-size="14" font-weight="800">product.console</text>
+      <circle cx="258" cy="40" r="5" fill="#34D399"/>
+      <circle cx="276" cy="40" r="5" fill="#FBBF24"/>
+
+      <g font-size="15" font-weight="750">
+        <rect x="20" y="82" width="125" height="48" rx="8" fill="#082F49" stroke="#38BDF8" stroke-opacity="0.45"/>
+        <text x="56" y="112" fill="#E0F2FE">Web</text>
+        <rect x="169" y="82" width="125" height="48" rx="8" fill="#042F2E" stroke="#2DD4BF" stroke-opacity="0.45"/>
+        <text x="210" y="112" fill="#CCFBF1">APIs</text>
+        <rect x="20" y="148" width="125" height="48" rx="8" fill="#312E81" stroke="#A78BFA" stroke-opacity="0.45"/>
+        <text x="51" y="178" fill="#EDE9FE">Mobile</text>
+        <rect x="169" y="148" width="125" height="48" rx="8" fill="#422006" stroke="#F59E0B" stroke-opacity="0.45"/>
+        <text x="203" y="178" fill="#FEF3C7">Admin</text>
+      </g>
+
+      <path d="M145 106H169M82 130V148M232 130V148M145 172H169" stroke="#FFFFFF" stroke-opacity="0.24" stroke-width="2"/>
+      <rect x="55" y="215" width="204" height="24" rx="6" fill="#0F172A" stroke="#34D399" stroke-opacity="0.28"/>
+      <text x="84" y="232" fill="#D1FAE5" font-size="13" font-weight="700">realtime + payments</text>
+    </g>
+
+    <text x="72" y="382" fill="#94A3B8" font-size="16" font-weight="700">Private production work documented through public-safe case studies.</text>
   </g>
-
-  <text x="70" y="95" fill="#E5F3FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="600" letter-spacing="3">FULL-STACK + FLUTTER DEVELOPER</text>
-  <text x="68" y="164" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">Naqibullah Qazizadah</text>
-  <text x="72" y="208" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Laravel APIs. Next.js products. Flutter apps.</text>
-  <text x="72" y="251" fill="#D1FAE5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">Business platforms for auctions, booking, marketplaces, admin systems, payments, and realtime workflows.</text>
-
-  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
-    <rect x="726" y="84" width="148" height="54" rx="18" fill="#0F172A" fill-opacity="0.92" stroke="#38BDF8" stroke-opacity="0.55"/>
-    <text x="762" y="119" fill="#E0F2FE">Web UI</text>
-    <rect x="910" y="84" width="148" height="54" rx="18" fill="#0F172A" fill-opacity="0.92" stroke="#2DD4BF" stroke-opacity="0.55"/>
-    <text x="948" y="119" fill="#CCFBF1">APIs</text>
-    <rect x="726" y="160" width="148" height="54" rx="18" fill="#0F172A" fill-opacity="0.92" stroke="#A78BFA" stroke-opacity="0.55"/>
-    <text x="754" y="195" fill="#EDE9FE">Mobile</text>
-    <rect x="910" y="160" width="148" height="54" rx="18" fill="#0F172A" fill-opacity="0.92" stroke="#FBBF24" stroke-opacity="0.55"/>
-    <text x="944" y="195" fill="#FEF3C7">Admin</text>
-    <rect x="816" y="237" width="158" height="54" rx="18" fill="#0F172A" fill-opacity="0.92" stroke="#34D399" stroke-opacity="0.55"/>
-    <text x="852" y="272" fill="#D1FAE5">Realtime</text>
-  </g>
-
-  <g stroke="#FFFFFF" stroke-opacity="0.22" stroke-width="2">
-    <path d="M874 111H910"/>
-    <path d="M800 138V160"/>
-    <path d="M984 138V160"/>
-    <path d="M874 187H910"/>
-    <path d="M800 214L850 237"/>
-    <path d="M984 214L942 237"/>
-  </g>
-
-  <text x="72" y="309" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Private production work, documented through public-safe case studies.</text>
 </svg>
