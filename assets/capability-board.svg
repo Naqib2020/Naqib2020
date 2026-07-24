@@ -1,74 +1,88 @@
-<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="620" viewBox="0 0 1200 620" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+    <linearGradient id="snapshotBg" x1="0" y1="0" x2="1200" y2="620" gradientUnits="userSpaceOnUse">
       <stop stop-color="#020617"/>
-      <stop offset="0.52" stop-color="#0B1120"/>
-      <stop offset="1" stop-color="#082F49"/>
+      <stop offset="0.5" stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#111827"/>
     </linearGradient>
-    <linearGradient id="accent" x1="80" y1="66" x2="1070" y2="450" gradientUnits="userSpaceOnUse">
+    <linearGradient id="snapshotAccent" x1="72" y1="80" x2="1126" y2="510" gradientUnits="userSpaceOnUse">
       <stop stop-color="#38BDF8"/>
-      <stop offset="0.5" stop-color="#2DD4BF"/>
+      <stop offset="0.36" stop-color="#2DD4BF"/>
+      <stop offset="0.7" stop-color="#A78BFA"/>
       <stop offset="1" stop-color="#F59E0B"/>
     </linearGradient>
-    <filter id="blur" x="-70" y="-70" width="1340" height="660" filterUnits="userSpaceOnUse">
-      <feGaussianBlur stdDeviation="28"/>
-    </filter>
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#94A3B8" stroke-opacity="0.09" stroke-width="1"/>
+    <pattern id="snapshotGrid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="1" fill="none"/>
     </pattern>
   </defs>
 
-  <rect width="1200" height="520" rx="34" fill="url(#bg)"/>
-  <rect width="1200" height="520" rx="34" fill="url(#grid)"/>
-  <g filter="url(#blur)" opacity="0.55">
-    <circle cx="220" cy="110" r="95" fill="#2563EB"/>
-    <circle cx="980" cy="130" r="105" fill="#14B8A6"/>
-    <circle cx="650" cy="460" r="110" fill="#F59E0B"/>
-  </g>
-
-  <text x="64" y="72" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="4">PROFILE SNAPSHOT</text>
-  <text x="64" y="124" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="850">I can build complete products end-to-end.</text>
-  <text x="64" y="164" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">The projects below are proof points from real work, not the limit of what I can build.</text>
-
-  <path d="M88 230C206 190 291 197 397 236C509 277 606 338 734 304C846 275 918 193 1098 221" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity="0.65"/>
+  <rect width="1200" height="620" rx="24" fill="url(#snapshotBg)"/>
+  <rect width="1200" height="620" rx="24" fill="url(#snapshotGrid)"/>
+  <path d="M72 184H1128" stroke="url(#snapshotAccent)" stroke-width="2.5" stroke-linecap="round"/>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <g>
-      <rect x="64" y="214" width="322" height="98" rx="22" fill="#0F172A" fill-opacity="0.88" stroke="#38BDF8" stroke-opacity="0.35"/>
-      <text x="92" y="252" fill="#E0F2FE" font-size="20" font-weight="800">Product Thinking</text>
-      <text x="92" y="282" fill="#CBD5E1" font-size="16">Turn ideas into usable workflows,</text>
-      <text x="92" y="304" fill="#CBD5E1" font-size="16">features, data models, and screens.</text>
+    <text x="64" y="72" fill="#BAE6FD" font-size="21" font-weight="800" letter-spacing="4">PROFILE SNAPSHOT</text>
+    <text x="64" y="124" fill="#FFFFFF" font-size="41" font-weight="850">I build across the whole product surface.</text>
+    <text x="64" y="162" fill="#CBD5E1" font-size="18" font-weight="500">Selected projects are evidence from real work, not boundaries.</text>
+    <text x="64" y="188" fill="#CBD5E1" font-size="18" font-weight="500">I can shape the product, architecture, web, mobile, backend, admin, and integrations around the business problem.</text>
+
+    <g transform="translate(64 224)">
+      <rect width="320" height="254" rx="12" fill="#07111F" stroke="#38BDF8" stroke-opacity="0.28"/>
+      <text x="28" y="46" fill="#E0F2FE" font-size="24" font-weight="850">Product ownership</text>
+      <text x="28" y="83" fill="#CBD5E1" font-size="16">I can take a product from rough</text>
+      <text x="28" y="106" fill="#CBD5E1" font-size="16">business idea to architecture, UI,</text>
+      <text x="28" y="129" fill="#CBD5E1" font-size="16">backend, mobile, admin tools, and</text>
+      <text x="28" y="152" fill="#CBD5E1" font-size="16">production workflows.</text>
+      <rect x="28" y="184" width="104" height="34" rx="8" fill="#082F49" stroke="#38BDF8" stroke-opacity="0.35"/>
+      <text x="48" y="207" fill="#E0F2FE" font-size="14" font-weight="750">Plan</text>
+      <rect x="144" y="184" width="72" height="34" rx="8" fill="#042F2E" stroke="#2DD4BF" stroke-opacity="0.35"/>
+      <text x="165" y="207" fill="#CCFBF1" font-size="14" font-weight="750">Build</text>
+      <rect x="228" y="184" width="64" height="34" rx="8" fill="#422006" stroke="#F59E0B" stroke-opacity="0.35"/>
+      <text x="244" y="207" fill="#FEF3C7" font-size="14" font-weight="750">Ship</text>
     </g>
-    <g>
-      <rect x="439" y="214" width="322" height="98" rx="22" fill="#0F172A" fill-opacity="0.88" stroke="#2DD4BF" stroke-opacity="0.35"/>
-      <text x="467" y="252" fill="#CCFBF1" font-size="20" font-weight="800">Engineering Systems</text>
-      <text x="467" y="282" fill="#CBD5E1" font-size="16">Build APIs, dashboards, mobile apps,</text>
-      <text x="467" y="304" fill="#CBD5E1" font-size="16">admin panels, and integrations.</text>
+
+    <g transform="translate(420 224)">
+      <rect width="716" height="254" rx="12" fill="#07111F" stroke="#FFFFFF" stroke-opacity="0.14"/>
+      <text x="28" y="46" fill="#FFFFFF" font-size="24" font-weight="850">How I usually turn work into a real system</text>
+      <path d="M62 126H654" stroke="url(#snapshotAccent)" stroke-width="3" stroke-linecap="round"/>
+
+      <g font-size="14" font-weight="750">
+        <rect x="28" y="88" width="145" height="94" rx="10" fill="#082F49" stroke="#38BDF8" stroke-opacity="0.35"/>
+        <text x="50" y="120" fill="#E0F2FE">01 Product</text>
+        <text x="50" y="147" fill="#CBD5E1" font-weight="500">flows, scope, UX</text>
+
+        <rect x="198" y="88" width="145" height="94" rx="10" fill="#042F2E" stroke="#2DD4BF" stroke-opacity="0.35"/>
+        <text x="220" y="120" fill="#CCFBF1">02 System</text>
+        <text x="220" y="147" fill="#CBD5E1" font-weight="500">APIs, data, roles</text>
+
+        <rect x="368" y="88" width="145" height="94" rx="10" fill="#312E81" stroke="#A78BFA" stroke-opacity="0.35"/>
+        <text x="390" y="120" fill="#EDE9FE">03 Interfaces</text>
+        <text x="390" y="147" fill="#CBD5E1" font-weight="500">web, mobile, admin</text>
+
+        <rect x="538" y="88" width="145" height="94" rx="10" fill="#422006" stroke="#F59E0B" stroke-opacity="0.35"/>
+        <text x="560" y="120" fill="#FEF3C7">04 Launch</text>
+        <text x="560" y="147" fill="#CBD5E1" font-weight="500">ops, realtime, pay</text>
+      </g>
+
+      <text x="28" y="218" fill="#94A3B8" font-size="15" font-weight="650">The portfolio shows systems, not only components:</text>
+      <text x="28" y="240" fill="#94A3B8" font-size="15" font-weight="650">users, admins, data, permissions, rules, and operations.</text>
     </g>
-    <g>
-      <rect x="814" y="214" width="322" height="98" rx="22" fill="#0F172A" fill-opacity="0.88" stroke="#F59E0B" stroke-opacity="0.35"/>
-      <text x="842" y="252" fill="#FEF3C7" font-size="20" font-weight="800">Launch-Ready Delivery</text>
-      <text x="842" y="282" fill="#CBD5E1" font-size="16">Connect auth, payments, realtime,</text>
-      <text x="842" y="304" fill="#CBD5E1" font-size="16">notifications, content, and ops.</text>
+
+    <g transform="translate(64 522)" font-size="15" font-weight="800">
+      <rect x="0" y="0" width="130" height="38" rx="8" fill="#082F49" stroke="#38BDF8" stroke-opacity="0.35"/>
+      <text x="25" y="25" fill="#E0F2FE">Auctions</text>
+      <rect x="146" y="0" width="138" height="38" rx="8" fill="#042F2E" stroke="#2DD4BF" stroke-opacity="0.35"/>
+      <text x="174" y="25" fill="#CCFBF1">Commerce</text>
+      <rect x="300" y="0" width="152" height="38" rx="8" fill="#312E81" stroke="#A78BFA" stroke-opacity="0.35"/>
+      <text x="324" y="25" fill="#EDE9FE">Marketplaces</text>
+      <rect x="468" y="0" width="122" height="38" rx="8" fill="#422006" stroke="#F59E0B" stroke-opacity="0.35"/>
+      <text x="495" y="25" fill="#FEF3C7">Booking</text>
+      <rect x="606" y="0" width="146" height="38" rx="8" fill="#0F172A" stroke="#34D399" stroke-opacity="0.35"/>
+      <text x="634" y="25" fill="#D1FAE5">Scanner Ops</text>
+      <rect x="768" y="0" width="142" height="38" rx="8" fill="#172554" stroke="#60A5FA" stroke-opacity="0.35"/>
+      <text x="795" y="25" fill="#DBEAFE">Hospitality</text>
+      <rect x="926" y="0" width="210" height="38" rx="8" fill="#3B0764" stroke="#C084FC" stroke-opacity="0.35"/>
+      <text x="958" y="25" fill="#F3E8FF">Service and Content</text>
     </g>
   </g>
-
-  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">
-    <rect x="64" y="366" width="142" height="48" rx="16" fill="#082F49" stroke="#38BDF8" stroke-opacity="0.45"/>
-    <text x="100" y="396" fill="#BAE6FD">Web Apps</text>
-    <rect x="226" y="366" width="142" height="48" rx="16" fill="#042F2E" stroke="#2DD4BF" stroke-opacity="0.45"/>
-    <text x="266" y="396" fill="#CCFBF1">APIs</text>
-    <rect x="388" y="366" width="142" height="48" rx="16" fill="#312E81" stroke="#A78BFA" stroke-opacity="0.45"/>
-    <text x="427" y="396" fill="#EDE9FE">Mobile</text>
-    <rect x="550" y="366" width="142" height="48" rx="16" fill="#422006" stroke="#F59E0B" stroke-opacity="0.45"/>
-    <text x="584" y="396" fill="#FEF3C7">Admin</text>
-    <rect x="712" y="366" width="142" height="48" rx="16" fill="#052E16" stroke="#22C55E" stroke-opacity="0.45"/>
-    <text x="748" y="396" fill="#DCFCE7">Payments</text>
-    <rect x="874" y="366" width="142" height="48" rx="16" fill="#1E1B4B" stroke="#818CF8" stroke-opacity="0.45"/>
-    <text x="908" y="396" fill="#E0E7FF">Realtime</text>
-    <rect x="1036" y="366" width="100" height="48" rx="16" fill="#172554" stroke="#60A5FA" stroke-opacity="0.45"/>
-    <text x="1060" y="396" fill="#DBEAFE">CMS</text>
-  </g>
-
-  <text x="64" y="470" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Selected work: B2B auctions, live commerce, marketplaces, scanner apps, hospitality sites, service booking, healthcare content, and booking systems.</text>
 </svg>
