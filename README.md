@@ -23,7 +23,7 @@
 ## Profile Snapshot
 
 <p align="center">
-  <img src="./assets/capability-board.svg?v=20260724-3" alt="Profile snapshot: I can build across the whole product surface">
+  <img src="./assets/capability-board.svg?v=20260724-4" alt="Profile snapshot: I can build across the whole product surface">
 </p>
 
 <p align="center">
