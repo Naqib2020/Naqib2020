@@ -4,13 +4,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naqibullah-qazizadah/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img width="206" src="./assets/contact-linkedin.svg?v=20260724-1" alt="LinkedIn - Connect">
   </a>
   <a href="mailto:naqib.qazizadah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img width="206" src="./assets/contact-email.svg?v=20260724-1" alt="Email - Send mail">
+  </a>
+  <a href="https://wa.me/93798932020">
+    <img width="206" src="./assets/contact-phone.svg?v=20260724-1" alt="Phone and WhatsApp - +93 798 932 020">
   </a>
   <a href="https://github.com/Naqib2020">
-    <img src="https://img.shields.io/badge/GitHub-Naqib2020-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img width="206" src="./assets/contact-github.svg?v=20260724-1" alt="GitHub - Naqib2020">
   </a>
 </p>
 
@@ -130,10 +133,21 @@ Instead, I document approved work through public-safe case studies focused on th
 ## Contact
 
 <p align="center">
+  <strong>For serious product, platform, and mobile app work.</strong><br>
+  Email or LinkedIn is best for project conversations. Phone/WhatsApp is available for direct follow-up.
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/naqibullah-qazizadah/">
-    <img src="https://img.shields.io/badge/LinkedIn-naqibullah--qazizadah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img width="206" src="./assets/contact-linkedin.svg?v=20260724-1" alt="LinkedIn - Connect">
   </a>
   <a href="mailto:naqib.qazizadah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-naqib.qazizadah%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img width="206" src="./assets/contact-email.svg?v=20260724-1" alt="Email - Send mail">
+  </a>
+  <a href="https://wa.me/93798932020">
+    <img width="206" src="./assets/contact-phone.svg?v=20260724-1" alt="Phone and WhatsApp - +93 798 932 020">
+  </a>
+  <a href="https://github.com/Naqib2020">
+    <img width="206" src="./assets/contact-github.svg?v=20260724-1" alt="GitHub - Naqib2020">
   </a>
 </p>
