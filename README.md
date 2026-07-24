@@ -66,13 +66,13 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>B2BStock</h3>
+      <h3><a href="https://github.com/Naqib2020/b2bstock-case-study">B2BStock</a></h3>
       <p><strong>B2B liquidation and pallet auction platform.</strong></p>
       <p>Laravel APIs, Next.js frontend, Flutter app, realtime bidding, buy-now flows, company verification, payments, invoices, translations, notifications, and admin operations.</p>
       <p><code>Laravel</code> <code>Next.js</code> <code>Flutter</code> <code>Stripe</code> <code>Realtime</code></p>
     </td>
     <td width="50%">
-      <h3>AvaStream / Auktion Live</h3>
+      <h3><a href="https://github.com/Naqib2020/avastream-case-study">AvaStream / Auktion Live</a></h3>
       <p><strong>Live-commerce and auction workflow platform.</strong></p>
       <p>Seller dashboards, scanning, showcase sync, realtime auction activity, payment flows, shipping/tracking, admin tooling, and mobile-oriented live auction screens.</p>
       <p><code>Laravel</code> <code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Firebase</code></p>
@@ -80,13 +80,13 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>City Popup</h3>
+      <h3><a href="https://github.com/Naqib2020/city-popup-case-study">City Popup</a></h3>
       <p><strong>Multi-domain marketplace and e-commerce platform.</strong></p>
       <p>Website and Flutter app across <code>.de</code>, <code>.ae</code>, and <code>.nl</code> domains, with Laravel backend/admin workflows for shops, products, cart, orders, reviews, support, notifications, localization, and payments.</p>
       <p><code>Laravel</code> <code>Website</code> <code>Flutter</code> <code>Multi-domain</code> <code>Payments</code></p>
     </td>
     <td width="50%">
-      <h3>Fixophile</h3>
+      <h3><a href="https://github.com/Naqib2020/fixophile-case-study">Fixophile</a></h3>
       <p><strong>Technology service booking and operations platform.</strong></p>
       <p>Customer-facing service discovery, authenticated booking workflows, Laravel backend APIs, user dashboards, admin management, support, billing, service hierarchy, and CMS operations.</p>
       <p><code>Laravel</code> <code>React</code> <code>Booking</code> <code>Admin</code> <code>CMS</code></p>
@@ -94,13 +94,13 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>MagicDentists</h3>
+      <h3><a href="https://github.com/Naqib2020/magicdentists-case-study">MagicDentists</a></h3>
       <p><strong>Healthcare/dental content and user platform.</strong></p>
       <p>Public service and article content, authentication, profile features, reviews, testimonials, contact workflows, protected user areas, and admin-backed content management.</p>
       <p><code>Laravel</code> <code>React</code> <code>Healthcare Content</code> <code>Auth</code> <code>Admin</code></p>
     </td>
     <td width="50%">
-      <h3>ShafaqBooking</h3>
+      <h3><a href="https://github.com/Naqib2020/shafaqbooking-case-study">ShafaqBooking</a></h3>
       <p><strong>Hotel booking and hospitality platform.</strong></p>
       <p>Multilingual room/package discovery, user accounts, vendor/agent-style workflows where applicable, coupons, reviews, booking flows, payment-related behavior, and admin operations.</p>
       <p><code>Laravel</code> <code>Booking</code> <code>Hospitality</code> <code>Payments</code> <code>Multilingual</code></p>
