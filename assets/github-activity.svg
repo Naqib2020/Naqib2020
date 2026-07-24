@@ -1,0 +1,62 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="activityBg" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.54" stop-color="#0B1324"/>
+      <stop offset="1" stop-color="#083344"/>
+    </linearGradient>
+    <linearGradient id="activityAccent" x1="72" y1="92" x2="1126" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.34" stop-color="#2DD4BF"/>
+      <stop offset="0.68" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#FBBF24"/>
+    </linearGradient>
+    <pattern id="activityGrid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" stroke="#FFFFFF" stroke-opacity="0.055" stroke-width="1" fill="none"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="430" rx="24" fill="url(#activityBg)"/>
+  <rect width="1200" height="430" rx="24" fill="url(#activityGrid)"/>
+  <path d="M72 364H1128" stroke="url(#activityAccent)" stroke-width="3" stroke-linecap="round"/>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="70" y="74" fill="#BAE6FD" font-size="21" font-weight="800" letter-spacing="4">GITHUB ACTIVITY</text>
+    <text x="70" y="128" fill="#FFFFFF" font-size="42" font-weight="850">What to inspect first.</text>
+    <text x="70" y="164" fill="#CBD5E1" font-size="18" font-weight="550">Public proof is organized around pinned case studies; private production code stays private.</text>
+
+    <g transform="translate(70 210)">
+      <rect width="246" height="108" rx="8" fill="#07111F" stroke="#38BDF8" stroke-opacity="0.34"/>
+      <rect x="0" y="0" width="6" height="108" rx="3" fill="#38BDF8"/>
+      <text x="26" y="38" fill="#E0F2FE" font-size="19" font-weight="850">Pinned Repos</text>
+      <text x="26" y="72" fill="#FFFFFF" font-size="30" font-weight="900">6</text>
+      <text x="70" y="72" fill="#CBD5E1" font-size="15" font-weight="650">public case studies</text>
+    </g>
+
+    <g transform="translate(342 210)">
+      <rect width="246" height="108" rx="8" fill="#07111F" stroke="#2DD4BF" stroke-opacity="0.34"/>
+      <rect x="0" y="0" width="6" height="108" rx="3" fill="#2DD4BF"/>
+      <text x="26" y="38" fill="#CCFBF1" font-size="19" font-weight="850">Main Signal</text>
+      <text x="26" y="70" fill="#FFFFFF" font-size="17" font-weight="800">Laravel, React/Next,</text>
+      <text x="26" y="94" fill="#CBD5E1" font-size="15" font-weight="650">Flutter, payments, realtime</text>
+    </g>
+
+    <g transform="translate(614 210)">
+      <rect width="246" height="108" rx="8" fill="#07111F" stroke="#A78BFA" stroke-opacity="0.34"/>
+      <rect x="0" y="0" width="6" height="108" rx="3" fill="#A78BFA"/>
+      <text x="26" y="38" fill="#EDE9FE" font-size="19" font-weight="850">Project Range</text>
+      <text x="26" y="70" fill="#FFFFFF" font-size="17" font-weight="800">Auctions, marketplaces,</text>
+      <text x="26" y="94" fill="#CBD5E1" font-size="15" font-weight="650">booking, service ops, health</text>
+    </g>
+
+    <g transform="translate(886 210)">
+      <rect width="244" height="108" rx="8" fill="#07111F" stroke="#F59E0B" stroke-opacity="0.34"/>
+      <rect x="0" y="0" width="6" height="108" rx="3" fill="#F59E0B"/>
+      <text x="26" y="38" fill="#FEF3C7" font-size="19" font-weight="850">Private Work</text>
+      <text x="26" y="70" fill="#FFFFFF" font-size="17" font-weight="800">Documented safely</text>
+      <text x="26" y="94" fill="#CBD5E1" font-size="15" font-weight="650">without source or client data</text>
+    </g>
+
+    <text x="70" y="396" fill="#94A3B8" font-size="15" font-weight="650">No third-party stats widgets here, so this section does not break when an external service is paused.</text>
+  </g>
+</svg>
