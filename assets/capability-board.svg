@@ -18,7 +18,7 @@
 
   <rect width="1200" height="620" rx="24" fill="url(#snapshotBg)"/>
   <rect width="1200" height="620" rx="24" fill="url(#snapshotGrid)"/>
-  <path d="M72 206H1128" stroke="url(#snapshotAccent)" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M72 218H1128" stroke="url(#snapshotAccent)" stroke-width="2.5" stroke-linecap="round"/>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
     <text x="64" y="72" fill="#BAE6FD" font-size="21" font-weight="800" letter-spacing="4">PROFILE SNAPSHOT</text>
@@ -26,7 +26,7 @@
     <text x="64" y="162" fill="#CBD5E1" font-size="18" font-weight="500">Selected projects are evidence from real work, not boundaries.</text>
     <text x="64" y="188" fill="#CBD5E1" font-size="18" font-weight="500">I can shape the product, architecture, web, mobile, backend, admin, and integrations around the business problem.</text>
 
-    <g transform="translate(64 224)">
+    <g transform="translate(64 238)">
       <rect width="320" height="254" rx="12" fill="#07111F" stroke="#38BDF8" stroke-opacity="0.28"/>
       <text x="28" y="46" fill="#E0F2FE" font-size="24" font-weight="850">Product ownership</text>
       <text x="28" y="83" fill="#CBD5E1" font-size="16">I can take a product from rough</text>
@@ -41,7 +41,7 @@
       <text x="244" y="207" fill="#FEF3C7" font-size="14" font-weight="750">Ship</text>
     </g>
 
-    <g transform="translate(420 224)">
+    <g transform="translate(420 238)">
       <rect width="716" height="254" rx="12" fill="#07111F" stroke="#FFFFFF" stroke-opacity="0.14"/>
       <text x="28" y="46" fill="#FFFFFF" font-size="24" font-weight="850">How I usually turn work into a real system</text>
       <path d="M62 126H654" stroke="url(#snapshotAccent)" stroke-width="3" stroke-linecap="round"/>
