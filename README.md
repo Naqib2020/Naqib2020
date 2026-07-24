@@ -142,23 +142,6 @@
   </tr>
 </table>
 
-## GitHub Activity
-
-<p align="center">
-  <img src="./assets/github-activity.svg?v=20260724-1" alt="GitHub activity: six pinned case-study repositories and private production work documented safely">
-</p>
-
-<table>
-  <tr>
-    <td align="center"><strong>Pinned Portfolio</strong><br>Six public case-study repositories built around verified commercial project work.</td>
-    <td align="center"><strong>Best Review Path</strong><br>Start with the pinned repos, then read the live project links and platform modules.</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Primary Proof</strong><br>Laravel APIs, React/Next.js frontends, Flutter apps, realtime flows, payments, admin systems.</td>
-    <td align="center"><strong>Privacy Standard</strong><br>Private source code and sensitive business data stay private by default.</td>
-  </tr>
-</table>
-
 ## Private Work Policy
 
 Private production work stays private. I do not publish source code, private repository names, credentials, admin screens, customer/company data, bids, invoices, payment records, verification documents, or internal URLs.
