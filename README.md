@@ -60,7 +60,7 @@
 ## Selected Work
 
 <p align="center">
-  <img src="./assets/systems-showcase.svg?v=20260724-1" alt="Selected systems: B2BStock, AvaStream, City Popup, Scanprox, Sauerland Hotel, and more">
+  <img src="./assets/systems-showcase.svg?v=20260724-2" alt="Selected systems: B2BStock, AvaStream, City Popup, Fixophile, MagicDentists, and ShafaqBooking">
 </p>
 
 <table>
@@ -81,33 +81,29 @@
   <tr>
     <td width="50%">
       <h3>City Popup</h3>
-      <p><strong>Marketplace and e-commerce platform.</strong></p>
-      <p>Laravel backend/admin system plus Flutter app for shops, domains, products, cart, orders, reviews, support tickets, notifications, localization, and payments.</p>
-      <p><code>Laravel</code> <code>Flutter</code> <code>Riverpod</code> <code>Firebase</code> <code>Pusher</code></p>
+      <p><strong>Multi-domain marketplace and e-commerce platform.</strong></p>
+      <p>Website and Flutter app across <code>.de</code>, <code>.ae</code>, and <code>.nl</code> domains, with Laravel backend/admin workflows for shops, products, cart, orders, reviews, support, notifications, localization, and payments.</p>
+      <p><code>Laravel</code> <code>Website</code> <code>Flutter</code> <code>Multi-domain</code> <code>Payments</code></p>
     </td>
     <td width="50%">
-      <h3>Scanprox</h3>
-      <p><strong>Scanner-focused operational mobile app.</strong></p>
-      <p>Role-based routing, camera and barcode flows, reports, pallet/order operations, batch export, printing, local notifications, and mobile/web operational workflows.</p>
-      <p><code>Flutter</code> <code>Dart</code> <code>GetX</code> <code>Barcode</code> <code>PDF/Excel</code></p>
+      <h3>Fixophile</h3>
+      <p><strong>Technology service booking and operations platform.</strong></p>
+      <p>Customer-facing service discovery, authenticated booking workflows, Laravel backend APIs, user dashboards, admin management, support, billing, service hierarchy, and CMS operations.</p>
+      <p><code>Laravel</code> <code>React</code> <code>Booking</code> <code>Admin</code> <code>CMS</code></p>
     </td>
   </tr>
-</table>
-
-## Public Code
-
-<table>
   <tr>
-    <td width="58%">
-      <h3>Product Card UI Showcase</h3>
-      <p>Public Flutter demo focused on product cards, pricing UI, discount badges, image loading, product detail navigation, and Material-style layouts.</p>
-      <p><code>Flutter</code> <code>Dart</code> <code>Material UI</code></p>
+    <td width="50%">
+      <h3>MagicDentists</h3>
+      <p><strong>Healthcare/dental content and user platform.</strong></p>
+      <p>Public service and article content, authentication, profile features, reviews, testimonials, contact workflows, protected user areas, and admin-backed content management.</p>
+      <p><code>Laravel</code> <code>React</code> <code>Healthcare Content</code> <code>Auth</code> <code>Admin</code></p>
     </td>
-    <td width="42%" align="center">
-      <br>
-      <a href="https://github.com/Naqib2020/test-product-cards">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naqib2020&repo=test-product-cards&hide_border=true&theme=transparent&title_color=38BDF8&text_color=CBD5E1&icon_color=2DD4BF" alt="Product Card UI Showcase repository card">
-      </a>
+    <td width="50%">
+      <h3>ShafaqBooking</h3>
+      <p><strong>Hotel booking and hospitality platform.</strong></p>
+      <p>Multilingual room/package discovery, user accounts, vendor/agent-style workflows where applicable, coupons, reviews, booking flows, payment-related behavior, and admin operations.</p>
+      <p><code>Laravel</code> <code>Booking</code> <code>Hospitality</code> <code>Payments</code> <code>Multilingual</code></p>
     </td>
   </tr>
 </table>
