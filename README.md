@@ -60,6 +60,31 @@
   </tr>
 </table>
 
+## Toolkit & Languages
+
+<p align="center">
+  <img src="./assets/toolkit-languages.svg?v=20260724-1" alt="Toolkit and spoken languages used across Naqibullah's projects">
+</p>
+
+<table>
+  <tr>
+    <td><strong>Core Languages</strong><br><code>PHP</code> <code>JavaScript</code> <code>TypeScript</code> <code>Dart</code> <code>SQL</code></td>
+    <td><strong>Frameworks</strong><br><code>Laravel</code> <code>Next.js</code> <code>React</code> <code>Flutter</code> <code>Vite</code> <code>Tailwind CSS</code></td>
+  </tr>
+  <tr>
+    <td><strong>Frontend and UI</strong><br><code>React Router</code> <code>React Query</code> <code>Radix/shadcn-style UI</code> <code>responsive dashboards</code></td>
+    <td><strong>Mobile App Tools</strong><br><code>Riverpod</code> <code>GoRouter</code> <code>Hive</code> <code>Dio</code> <code>Firebase Messaging</code> <code>localization</code></td>
+  </tr>
+  <tr>
+    <td><strong>Backend and Data</strong><br><code>REST APIs</code> <code>Sanctum</code> <code>roles/permissions</code> <code>queues</code> <code>notifications</code> <code>MySQL</code> <code>PostgreSQL</code></td>
+    <td><strong>Business Integrations</strong><br><code>Stripe</code> <code>Razorpay</code> <code>Paystack</code> <code>Echo/Pusher/Reverb</code> <code>maps</code> <code>shipping/tracking</code></td>
+  </tr>
+  <tr>
+    <td><strong>Operations and Content</strong><br><code>Filament</code> <code>Spatie packages</code> <code>DomPDF</code> <code>QR/barcode</code> <code>Excel</code> <code>CMS/admin tools</code> <code>web push</code></td>
+    <td><strong>Spoken Languages</strong><br><code>Dari / Persian - Native</code> <code>English - Professional fluency</code></td>
+  </tr>
+</table>
+
 ## Selected Work
 
 <p align="center">
