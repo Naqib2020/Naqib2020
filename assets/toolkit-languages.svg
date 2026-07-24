@@ -1,0 +1,85 @@
+<svg width="1200" height="650" viewBox="0 0 1200 650" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="toolkitBg" x1="0" y1="0" x2="1200" y2="650" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.48" stop-color="#0B1324"/>
+      <stop offset="1" stop-color="#083344"/>
+    </linearGradient>
+    <linearGradient id="toolkitAccent" x1="76" y1="94" x2="1102" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.32" stop-color="#2DD4BF"/>
+      <stop offset="0.68" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#FBBF24"/>
+    </linearGradient>
+    <pattern id="toolkitGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#FFFFFF" stroke-opacity="0.055" stroke-width="1" fill="none"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="650" rx="24" fill="url(#toolkitBg)"/>
+  <rect width="1200" height="650" rx="24" fill="url(#toolkitGrid)"/>
+  <path d="M70 590H1130" stroke="url(#toolkitAccent)" stroke-width="3" stroke-linecap="round"/>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="70" y="76" fill="#BAE6FD" font-size="21" font-weight="800" letter-spacing="4">TOOLKIT AND LANGUAGES</text>
+    <text x="70" y="130" fill="#FFFFFF" font-size="42" font-weight="850">Tools I have used to ship real systems.</text>
+    <text x="70" y="166" fill="#CBD5E1" font-size="18" font-weight="550">A focused map of the technologies proven across my projects, plus the languages I use with teams and clients.</text>
+
+    <g transform="translate(70 210)">
+      <rect width="326" height="138" rx="8" fill="#07111F" stroke="#38BDF8" stroke-opacity="0.34"/>
+      <rect x="0" y="0" width="6" height="138" rx="3" fill="#38BDF8"/>
+      <text x="26" y="38" fill="#E0F2FE" font-size="20" font-weight="850">Core Build Stack</text>
+      <text x="26" y="74" fill="#FFFFFF" font-size="16" font-weight="750">PHP, JavaScript, TypeScript, Dart</text>
+      <text x="26" y="103" fill="#CBD5E1" font-size="15" font-weight="600">Laravel, Next.js, React, Flutter,</text>
+      <text x="26" y="126" fill="#CBD5E1" font-size="15" font-weight="600">Tailwind CSS, Vite</text>
+    </g>
+
+    <g transform="translate(437 210)">
+      <rect width="326" height="138" rx="8" fill="#07111F" stroke="#2DD4BF" stroke-opacity="0.34"/>
+      <rect x="0" y="0" width="6" height="138" rx="3" fill="#2DD4BF"/>
+      <text x="26" y="38" fill="#CCFBF1" font-size="20" font-weight="850">Frontend and Mobile</text>
+      <text x="26" y="74" fill="#FFFFFF" font-size="16" font-weight="750">React Router, React Query, Radix UI</text>
+      <text x="26" y="103" fill="#CBD5E1" font-size="15" font-weight="600">Riverpod, GoRouter, Hive, Dio,</text>
+      <text x="26" y="126" fill="#CBD5E1" font-size="15" font-weight="600">Firebase Messaging, responsive UI</text>
+    </g>
+
+    <g transform="translate(804 210)">
+      <rect width="326" height="138" rx="8" fill="#07111F" stroke="#A78BFA" stroke-opacity="0.34"/>
+      <rect x="0" y="0" width="6" height="138" rx="3" fill="#A78BFA"/>
+      <text x="26" y="38" fill="#EDE9FE" font-size="20" font-weight="850">Backend and Data</text>
+      <text x="26" y="74" fill="#FFFFFF" font-size="16" font-weight="750">REST APIs, Sanctum, roles, queues</text>
+      <text x="26" y="103" fill="#CBD5E1" font-size="15" font-weight="600">MySQL, PostgreSQL, Firebase,</text>
+      <text x="26" y="126" fill="#CBD5E1" font-size="15" font-weight="600">permissions, notifications, admin tools</text>
+    </g>
+
+    <g transform="translate(70 386)">
+      <rect width="326" height="138" rx="8" fill="#07111F" stroke="#F59E0B" stroke-opacity="0.34"/>
+      <rect x="0" y="0" width="6" height="138" rx="3" fill="#F59E0B"/>
+      <text x="26" y="38" fill="#FEF3C7" font-size="20" font-weight="850">Business Integrations</text>
+      <text x="26" y="74" fill="#FFFFFF" font-size="16" font-weight="750">Stripe, Razorpay, Paystack</text>
+      <text x="26" y="103" fill="#CBD5E1" font-size="15" font-weight="600">Payments, invoices, shipping/tracking,</text>
+      <text x="26" y="126" fill="#CBD5E1" font-size="15" font-weight="600">maps, social auth, translations</text>
+    </g>
+
+    <g transform="translate(437 386)">
+      <rect width="326" height="138" rx="8" fill="#07111F" stroke="#22C55E" stroke-opacity="0.34"/>
+      <rect x="0" y="0" width="6" height="138" rx="3" fill="#22C55E"/>
+      <text x="26" y="38" fill="#D9F99D" font-size="20" font-weight="850">Operations and Content</text>
+      <text x="26" y="74" fill="#FFFFFF" font-size="16" font-weight="750">Filament, Spatie, Laravel Mix</text>
+      <text x="26" y="103" fill="#CBD5E1" font-size="15" font-weight="600">DomPDF, QR/barcode, Excel, CMS,</text>
+      <text x="26" y="126" fill="#CBD5E1" font-size="15" font-weight="600">web push, support workflows</text>
+    </g>
+
+    <g transform="translate(804 386)">
+      <rect width="326" height="138" rx="8" fill="#07111F" stroke="#94A3B8" stroke-opacity="0.34"/>
+      <rect x="0" y="0" width="6" height="138" rx="3" fill="#94A3B8"/>
+      <text x="26" y="38" fill="#E5E7EB" font-size="20" font-weight="850">Spoken Languages</text>
+      <text x="26" y="76" fill="#FFFFFF" font-size="18" font-weight="850">Dari / Persian</text>
+      <text x="164" y="76" fill="#CBD5E1" font-size="15" font-weight="650">Native</text>
+      <text x="26" y="110" fill="#FFFFFF" font-size="18" font-weight="850">English</text>
+      <text x="164" y="110" fill="#CBD5E1" font-size="14" font-weight="650">Professional fluency</text>
+    </g>
+
+    <text x="70" y="614" fill="#94A3B8" font-size="15" font-weight="650">Excluded intentionally: tools or languages not used or not suitable for the public portfolio signal.</text>
+  </g>
+</svg>
