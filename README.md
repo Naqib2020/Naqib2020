@@ -20,28 +20,40 @@
 
 ---
 
+## Profile Snapshot
+
 <p align="center">
-  <img src="./assets/capability-board.svg" alt="Profile snapshot: I can build complete products end-to-end">
+  <img src="./assets/capability-board.svg" alt="Profile snapshot: I can build across the whole product surface">
 </p>
 
-## Stack
+<p align="center">
+  <strong>I am not limited to the project categories shown here.</strong><br>
+  These are selected examples from work I have actually built or worked on. The real strength is being able to understand the business problem, shape the product, choose the right architecture, and build the web, mobile, backend, admin, and integration layers around it.
+</p>
+
+## Engineering Stack
 
 <p align="center">
-  <img src="./assets/stack-map.svg" alt="Stack map for backend, frontend, mobile, and platform operations">
+  <img src="./assets/stack-map.svg" alt="Engineering stack organized by product layer">
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,ts,js,flutter,dart,tailwind,postgres,mysql,firebase,git,github,docker&perline=15" alt="Laravel, PHP, Next.js, React, TypeScript, JavaScript, Flutter, Dart, Tailwind, PostgreSQL, MySQL, Firebase, Git, GitHub, Docker">
 </p>
 
+<p align="center">
+  <strong>I choose tools based on the product, not the other way around.</strong><br>
+  This is the stack I have proven across business platforms, dashboards, mobile apps, admin systems, realtime workflows, payments, booking flows, and marketplace operations.
+</p>
+
 <table>
   <tr>
-    <td align="center"><strong>Backend</strong><br>Laravel, PHP, REST APIs, Sanctum, queues, notifications, roles, admin workflows</td>
-    <td align="center"><strong>Frontend</strong><br>Next.js, React, TypeScript, Vite, Tailwind, dashboards, public sites, SEO-aware pages</td>
+    <td align="center"><strong>Experience Layer</strong><br>Next.js, React, TypeScript, Tailwind, Flutter, Dart, dashboards, public sites, mobile flows</td>
+    <td align="center"><strong>Application Layer</strong><br>Laravel, PHP, REST APIs, Sanctum, permissions, roles, queues, notifications, admin modules</td>
   </tr>
   <tr>
-    <td align="center"><strong>Mobile</strong><br>Flutter, Dart, Riverpod, GetX, Firebase Messaging, local storage, scanner workflows</td>
-    <td align="center"><strong>Business Systems</strong><br>Stripe, realtime channels, shipping/tracking, maps, PDF/invoices, translations, CMS content</td>
+    <td align="center"><strong>Data and Realtime</strong><br>PostgreSQL, MySQL, Firebase, Pusher/Echo, local storage, event-driven interfaces</td>
+    <td align="center"><strong>Business Operations</strong><br>Stripe, shipping/tracking, maps, PDF/invoices, translations, CMS content, support workflows</td>
   </tr>
 </table>
 
