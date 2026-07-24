@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:2563EB,100:14B8A6&text=Naqibullah%20Qazizadah&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20%7C%20Flutter%20%7C%20Laravel%20%7C%20Next.js&descAlignY=58&descSize=18" alt="Naqibullah Qazizadah profile banner">
+  <img src="./assets/profile-hero.svg" alt="Naqibullah Qazizadah - Full-Stack and Flutter Developer">
 </p>
 
 <p align="center">
@@ -15,45 +15,41 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+complete+business+platforms.;Laravel+APIs.+Next.js+frontends.+Flutter+apps.;Dashboards%2C+admin+panels%2C+payments%2C+realtime+workflows.;Private+production+work%2C+documented+with+public-safe+case+studies." alt="Typing headline">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+complete+business+platforms.;Laravel+backends.+Next.js+frontends.+Flutter+apps.;Auctions%2C+booking%2C+marketplaces%2C+admin+systems%2C+payments.;Private+production+work%2C+presented+through+public-safe+case+studies." alt="Animated developer headline">
 </p>
 
 ---
 
+## Profile Snapshot
+
 <table>
   <tr>
-    <td width="55%">
-      <h2>About</h2>
+    <td width="58%">
+      <h3>Product-minded full-stack developer</h3>
       <p>
         I build full product systems: public websites, backend APIs, mobile apps,
-        dashboards, admin panels, booking flows, auction workflows, payments,
+        dashboards, admin panels, booking flows, auction workflows, payment flows,
         notifications, localization, and operational tools.
       </p>
       <p>
-        Most of my strongest work is private commercial or organization work, so I
-        present it through clean public-safe case studies instead of exposing
-        private source code, credentials, admin screens, customer data, bids,
-        invoices, payment records, or internal URLs.
+        My strongest work is private commercial and organization work. I keep the
+        source code private and present the work through public-safe case studies
+        focused on architecture, product modules, and verified technologies.
       </p>
     </td>
-    <td width="45%">
-      <h2>Focus</h2>
-      <ul>
-        <li>Full-stack business platforms</li>
-        <li>Laravel APIs and admin workflows</li>
-        <li>Next.js and React product frontends</li>
-        <li>Flutter mobile apps</li>
-        <li>Realtime auctions and operations</li>
-        <li>Payments, invoices, booking, and CMS flows</li>
-      </ul>
+    <td width="42%">
+      <h3>What I ship</h3>
+      <p><strong>Platforms:</strong> auctions, booking, marketplaces, hospitality, content systems</p>
+      <p><strong>Interfaces:</strong> public sites, dashboards, admin panels, Flutter apps</p>
+      <p><strong>Workflows:</strong> auth, payments, orders, invoices, realtime, notifications</p>
     </td>
   </tr>
 </table>
 
-## Technology Stack
+## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,ts,js,flutter,dart,tailwind,postgres,mysql,firebase,git,github,docker&perline=8" alt="Technology stack icons">
+  <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,ts,js,flutter,dart,tailwind,postgres,mysql,firebase,git,github,docker&perline=8" alt="Laravel, PHP, Next.js, React, TypeScript, JavaScript, Flutter, Dart, Tailwind, PostgreSQL, MySQL, Firebase, Git, GitHub, Docker">
 </p>
 
 <table>
@@ -63,58 +59,59 @@
   </tr>
   <tr>
     <td align="center"><strong>Mobile</strong><br>Flutter, Dart, Riverpod, GetX, Firebase Messaging, local storage, API-backed apps</td>
-    <td align="center"><strong>Product Systems</strong><br>Booking, e-commerce, B2B auctions, live commerce, content, hotel/hospitality platforms</td>
+    <td align="center"><strong>Integrations</strong><br>Stripe, realtime channels, shipping/tracking, maps, PDF/invoices, localization</td>
   </tr>
 </table>
 
-## Flagship Work
+## Selected Systems
 
 <table>
   <tr>
     <td width="50%">
       <h3>B2BStock</h3>
-      <p>B2B liquidation and wholesale pallet auction platform with Laravel APIs, Next.js frontend, Flutter mobile app, realtime bidding, payments, invoices, company verification, translations, notifications, and admin operations.</p>
-      <p><strong>Stack:</strong> Laravel, Next.js, React, TypeScript, Flutter, Sanctum, Stripe, realtime channels</p>
-      <p><a href="https://github.com/Naqib2020/b2bstock-case-study">Case study repo</a></p>
+      <p><strong>B2B liquidation and pallet auction platform.</strong></p>
+      <p>Laravel APIs, Next.js frontend, Flutter app, realtime bidding, buy-now flows, company verification, payments, invoices, translations, notifications, and admin operations.</p>
+      <p><code>Laravel</code> <code>Next.js</code> <code>Flutter</code> <code>Stripe</code> <code>Realtime</code></p>
     </td>
     <td width="50%">
       <h3>AvaStream / Auktion Live</h3>
-      <p>Live-commerce auction platform with seller workflows, scanning, showcase sync, realtime auction activity, dashboards, payments, shipping/tracking, and admin tooling.</p>
-      <p><strong>Stack:</strong> Laravel, React, TypeScript, Vite, Echo/Pusher-style events, Stripe, Firebase</p>
-      <p><a href="https://github.com/Naqib2020/avastream-case-study">Case study repo</a></p>
+      <p><strong>Live-commerce and auction workflow platform.</strong></p>
+      <p>Seller dashboards, scanning, showcase sync, realtime auction activity, payment flows, shipping/tracking, admin tooling, and mobile-oriented live auction screens.</p>
+      <p><code>Laravel</code> <code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Firebase</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>City Popup</h3>
-      <p>Marketplace/e-commerce platform with a Laravel backend/admin system and Flutter app for shops, products, cart, orders, reviews, support, notifications, localization, and payment-related flows.</p>
-      <p><strong>Stack:</strong> Laravel, Flutter, Dart, Riverpod, Firebase Messaging, Pusher, payment integrations</p>
-      <p><a href="https://github.com/Naqib2020/city-popup-case-study">Case study repo</a></p>
+      <p><strong>Marketplace and e-commerce platform.</strong></p>
+      <p>Laravel backend/admin system plus Flutter app for shops, domains, products, cart, orders, reviews, support tickets, notifications, localization, and payments.</p>
+      <p><code>Laravel</code> <code>Flutter</code> <code>Riverpod</code> <code>Firebase</code> <code>Pusher</code></p>
     </td>
     <td width="50%">
       <h3>Scanprox</h3>
-      <p>Scanner-focused Flutter app for operational workflows, role-based routing, barcode/camera tooling, reports, printing/export flows, local notifications, and admin/customer experiences.</p>
-      <p><strong>Stack:</strong> Flutter, Dart, GetX, barcode/camera tooling, PDF/Excel/printing packages</p>
-      <p><a href="https://github.com/Naqib2020/scanprox-case-study">Case study repo</a></p>
+      <p><strong>Scanner-focused operational mobile app.</strong></p>
+      <p>Role-based routing, camera and barcode flows, reports, pallet/order operations, batch export, printing, local notifications, and mobile/web operational workflows.</p>
+      <p><code>Flutter</code> <code>Dart</code> <code>GetX</code> <code>Barcode</code> <code>PDF/Excel</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>Sauerland Hotel</h3>
-      <p>Modern Next.js hotel website with rooms, restaurant content, activities, booking integration, dynamic settings, localization, image-rich sections, and reusable components.</p>
-      <p><strong>Stack:</strong> Next.js, React, TypeScript, Tailwind CSS, dynamic content APIs, booking integration</p>
-      <p><a href="https://github.com/Naqib2020/sauerland-hotel-case-study">Case study repo</a></p>
+      <p><strong>Modern hospitality website.</strong></p>
+      <p>Next.js hotel experience with rooms, restaurant content, activities, booking integration, dynamic settings, localization, image-rich sections, and reusable UI components.</p>
+      <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind</code> <code>CMS-style data</code></p>
     </td>
     <td width="50%">
       <h3>Product Card UI Showcase</h3>
-      <p>Public Flutter demo focused on product cards, pricing UI, discount badges, image loading, grid/detail layouts, and responsive Material-style screens.</p>
-      <p><strong>Stack:</strong> Flutter, Dart, Material UI</p>
-      <p><a href="https://github.com/Naqib2020/test-product-cards">Public repo</a></p>
+      <p><strong>Public Flutter UI demo.</strong></p>
+      <p>Responsive product-card grid, pricing UI, discount badges, image loading, product detail navigation, and Material-style layouts.</p>
+      <p><code>Flutter</code> <code>Dart</code> <code>Material UI</code></p>
+      <p><a href="https://github.com/Naqib2020/test-product-cards">View public repository</a></p>
     </td>
   </tr>
 </table>
 
-## More Case Studies
+## More Work
 
 <table>
   <tr>
@@ -127,8 +124,8 @@
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Naqib2020&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naqib2020&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Naqib2020&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&title_color=38BDF8&text_color=CBD5E1&icon_color=2DD4BF" alt="Naqibullah GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naqib2020&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=CBD5E1" alt="Naqibullah top languages">
 </p>
 
 ## Private Work Policy
@@ -146,8 +143,4 @@ Instead, I document approved work through public-safe case studies focused on th
   <a href="mailto:naqib.qazizadah@gmail.com">
     <img src="https://img.shields.io/badge/Email-naqib.qazizadah%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14B8A6,50:2563EB,100:0F172A" alt="Footer wave">
 </p>
