@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Naqibullah Qazizadah - Full-Stack and Flutter Developer">
+  <img src="./assets/profile-hero.svg?v=20260724-2" alt="Naqibullah Qazizadah - Full-Stack and Flutter Developer">
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ## Profile Snapshot
 
 <p align="center">
-  <img src="./assets/capability-board.svg" alt="Profile snapshot: I can build across the whole product surface">
+  <img src="./assets/capability-board.svg?v=20260724-3" alt="Profile snapshot: I can build across the whole product surface">
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 ## Engineering Stack
 
 <p align="center">
-  <img src="./assets/stack-map.svg" alt="Engineering stack organized by product layer">
+  <img src="./assets/stack-map.svg?v=20260724-2" alt="Engineering stack organized by product layer">
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@
 ## Selected Work
 
 <p align="center">
-  <img src="./assets/systems-showcase.svg" alt="Selected systems: B2BStock, AvaStream, City Popup, Scanprox, Sauerland Hotel, and more">
+  <img src="./assets/systems-showcase.svg?v=20260724-1" alt="Selected systems: B2BStock, AvaStream, City Popup, Scanprox, Sauerland Hotel, and more">
 </p>
 
 <table>
