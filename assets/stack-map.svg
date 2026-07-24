@@ -1,0 +1,70 @@
+<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.56" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="145" y1="120" x2="1030" y2="465" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.35" stop-color="#2DD4BF"/>
+      <stop offset="0.7" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.4" fill="#94A3B8" fill-opacity="0.15"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="560" rx="34" fill="url(#bg)"/>
+  <rect width="1200" height="560" rx="34" fill="url(#dots)"/>
+  <text x="64" y="72" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="4">STACK MAP</text>
+  <text x="64" y="124" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="850">The toolkit I use to build real platforms.</text>
+  <text x="64" y="164" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19">Not just languages: the stack is organized around what each layer does in a product.</text>
+
+  <path d="M214 282C326 156 495 116 626 202C729 270 787 398 944 365" stroke="url(#ring)" stroke-width="3" stroke-dasharray="10 12" opacity="0.75"/>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <g>
+      <rect x="64" y="210" width="250" height="250" rx="28" fill="#0B1222" stroke="#38BDF8" stroke-opacity="0.38"/>
+      <text x="92" y="254" fill="#BAE6FD" font-size="23" font-weight="850">Backend Core</text>
+      <text x="92" y="290" fill="#E5E7EB" font-size="17">Laravel / PHP</text>
+      <text x="92" y="320" fill="#CBD5E1" font-size="15">REST APIs, Sanctum auth,</text>
+      <text x="92" y="342" fill="#CBD5E1" font-size="15">queues, notifications, roles,</text>
+      <text x="92" y="364" fill="#CBD5E1" font-size="15">admin modules, PDF/invoices.</text>
+      <rect x="92" y="398" width="80" height="32" rx="11" fill="#082F49"/><text x="111" y="420" fill="#E0F2FE" font-size="13" font-weight="700">APIs</text>
+      <rect x="184" y="398" width="92" height="32" rx="11" fill="#082F49"/><text x="202" y="420" fill="#E0F2FE" font-size="13" font-weight="700">Admin</text>
+    </g>
+    <g>
+      <rect x="346" y="210" width="250" height="250" rx="28" fill="#0B1222" stroke="#2DD4BF" stroke-opacity="0.38"/>
+      <text x="374" y="254" fill="#CCFBF1" font-size="23" font-weight="850">Web Products</text>
+      <text x="374" y="290" fill="#E5E7EB" font-size="17">Next.js / React / TS</text>
+      <text x="374" y="320" fill="#CBD5E1" font-size="15">Public sites, dashboards,</text>
+      <text x="374" y="342" fill="#CBD5E1" font-size="15">routing, SEO, forms, filters,</text>
+      <text x="374" y="364" fill="#CBD5E1" font-size="15">state and server data.</text>
+      <rect x="374" y="398" width="74" height="32" rx="11" fill="#042F2E"/><text x="391" y="420" fill="#CCFBF1" font-size="13" font-weight="700">UI</text>
+      <rect x="460" y="398" width="98" height="32" rx="11" fill="#042F2E"/><text x="481" y="420" fill="#CCFBF1" font-size="13" font-weight="700">Dash</text>
+    </g>
+    <g>
+      <rect x="628" y="210" width="250" height="250" rx="28" fill="#0B1222" stroke="#A78BFA" stroke-opacity="0.38"/>
+      <text x="656" y="254" fill="#EDE9FE" font-size="23" font-weight="850">Mobile Apps</text>
+      <text x="656" y="290" fill="#E5E7EB" font-size="17">Flutter / Dart</text>
+      <text x="656" y="320" fill="#CBD5E1" font-size="15">Riverpod, GetX, Firebase,</text>
+      <text x="656" y="342" fill="#CBD5E1" font-size="15">local storage, scanner flows,</text>
+      <text x="656" y="364" fill="#CBD5E1" font-size="15">downloads and notifications.</text>
+      <rect x="656" y="398" width="92" height="32" rx="11" fill="#312E81"/><text x="675" y="420" fill="#EDE9FE" font-size="13" font-weight="700">Apps</text>
+      <rect x="760" y="398" width="78" height="32" rx="11" fill="#312E81"/><text x="776" y="420" fill="#EDE9FE" font-size="13" font-weight="700">FCM</text>
+    </g>
+    <g>
+      <rect x="910" y="210" width="226" height="250" rx="28" fill="#0B1222" stroke="#F59E0B" stroke-opacity="0.38"/>
+      <text x="938" y="254" fill="#FEF3C7" font-size="23" font-weight="850">Platform Ops</text>
+      <text x="938" y="290" fill="#E5E7EB" font-size="17">Payments / Realtime</text>
+      <text x="938" y="320" fill="#CBD5E1" font-size="15">Stripe, Pusher/Echo,</text>
+      <text x="938" y="342" fill="#CBD5E1" font-size="15">shipping/tracking, maps,</text>
+      <text x="938" y="364" fill="#CBD5E1" font-size="15">translations and content.</text>
+      <rect x="938" y="398" width="78" height="32" rx="11" fill="#422006"/><text x="954" y="420" fill="#FEF3C7" font-size="13" font-weight="700">Pay</text>
+      <rect x="1028" y="398" width="74" height="32" rx="11" fill="#422006"/><text x="1043" y="420" fill="#FEF3C7" font-size="13" font-weight="700">Live</text>
+    </g>
+  </g>
+
+  <text x="64" y="512" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">The goal is not to collect tools. The goal is to ship complete systems that work for customers, admins, and business operations.</text>
+</svg>
