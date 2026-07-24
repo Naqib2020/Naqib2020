@@ -44,30 +44,30 @@
     <g>
       <rect x="806" y="220" width="330" height="136" rx="24" fill="#0B1222" stroke="#F59E0B" stroke-opacity="0.35"/>
       <text x="834" y="258" fill="#FEF3C7" font-size="23" font-weight="850">City Popup</text>
-      <text x="834" y="288" fill="#FFFFFF" font-size="16" font-weight="700">Marketplace and e-commerce platform</text>
-      <text x="834" y="318" fill="#CBD5E1" font-size="15">Laravel backend/admin plus Flutter app</text>
-      <text x="834" y="340" fill="#CBD5E1" font-size="15">for products, orders, support, payments.</text>
+      <text x="834" y="288" fill="#FFFFFF" font-size="16" font-weight="700">Multi-domain marketplace platform</text>
+      <text x="834" y="318" fill="#CBD5E1" font-size="15">Website + Flutter app across .de,</text>
+      <text x="834" y="340" fill="#CBD5E1" font-size="15">.ae, .nl domains, orders, payments.</text>
     </g>
     <g>
       <rect x="64" y="394" width="330" height="136" rx="24" fill="#0B1222" stroke="#A78BFA" stroke-opacity="0.35"/>
-      <text x="92" y="432" fill="#EDE9FE" font-size="23" font-weight="850">Scanprox</text>
-      <text x="92" y="462" fill="#FFFFFF" font-size="16" font-weight="700">Scanner-based operational app</text>
-      <text x="92" y="492" fill="#CBD5E1" font-size="15">Flutter, GetX, barcode/camera, reports,</text>
-      <text x="92" y="514" fill="#CBD5E1" font-size="15">printing, export, notifications.</text>
+      <text x="92" y="432" fill="#EDE9FE" font-size="23" font-weight="850">Fixophile</text>
+      <text x="92" y="462" fill="#FFFFFF" font-size="16" font-weight="700">Service booking and operations</text>
+      <text x="92" y="492" fill="#CBD5E1" font-size="15">Customer flows, Laravel backend,</text>
+      <text x="92" y="514" fill="#CBD5E1" font-size="15">admin, support, billing, CMS.</text>
     </g>
     <g>
       <rect x="435" y="394" width="330" height="136" rx="24" fill="#0B1222" stroke="#38BDF8" stroke-opacity="0.35"/>
-      <text x="463" y="432" fill="#BAE6FD" font-size="23" font-weight="850">Sauerland Hotel</text>
-      <text x="463" y="462" fill="#FFFFFF" font-size="16" font-weight="700">Modern hospitality website</text>
-      <text x="463" y="492" fill="#CBD5E1" font-size="15">Next.js, localized content, booking,</text>
-      <text x="463" y="514" fill="#CBD5E1" font-size="15">rooms, restaurant, activities, visuals.</text>
+      <text x="463" y="432" fill="#BAE6FD" font-size="23" font-weight="850">MagicDentists</text>
+      <text x="463" y="462" fill="#FFFFFF" font-size="16" font-weight="700">Healthcare content and user platform</text>
+      <text x="463" y="492" fill="#CBD5E1" font-size="15">Services, articles, auth, profiles,</text>
+      <text x="463" y="514" fill="#CBD5E1" font-size="15">reviews, admin-backed content.</text>
     </g>
     <g>
       <rect x="806" y="394" width="330" height="136" rx="24" fill="#0B1222" stroke="#2DD4BF" stroke-opacity="0.35"/>
-      <text x="834" y="432" fill="#CCFBF1" font-size="23" font-weight="850">More Platforms</text>
-      <text x="834" y="462" fill="#FFFFFF" font-size="16" font-weight="700">Service, healthcare, booking systems</text>
-      <text x="834" y="492" fill="#CBD5E1" font-size="15">Fixophile, MagicDentists, ShafaqBooking,</text>
-      <text x="834" y="514" fill="#CBD5E1" font-size="15">and supporting product interfaces.</text>
+      <text x="834" y="432" fill="#CCFBF1" font-size="23" font-weight="850">ShafaqBooking</text>
+      <text x="834" y="462" fill="#FFFFFF" font-size="16" font-weight="700">Hotel booking and hospitality platform</text>
+      <text x="834" y="492" fill="#CBD5E1" font-size="15">Rooms, packages, vendors/agents,</text>
+      <text x="834" y="514" fill="#CBD5E1" font-size="15">payments, reviews, multilingual flows.</text>
     </g>
   </g>
   <text x="64" y="578" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Private repositories stay private; public presentation focuses on product scope, architecture, and verified technology.</text>
